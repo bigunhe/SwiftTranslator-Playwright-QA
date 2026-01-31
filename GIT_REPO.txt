@@ -1,0 +1,1 @@
+https://github.com/bigunhe/SwiftTranslator-Playwright-QA.git
